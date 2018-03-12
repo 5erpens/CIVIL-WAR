@@ -1,0 +1,66 @@
+CIVIL WAR by Sai
+-------------------------------------------------------------------------------------------------------------
+
+Controls
+--------------------------------
+
+	Ironman Controls
+	-------------------
+	
+		Movement
+		--------
+		'W' - Jump
+		'S' - Instant come to ground
+		'A' - Left
+		'D' - Right
+
+		Attacks (Don't just press it. Hold it)
+		-------
+		'T' - Rocket attack (Damage: 0.7% life per second)
+		'G' - Eye Shot 	    (Damage: 0.5% life per second)
+		'F' - Kick 	    (Damage: 0.09% life per second)
+		'H' - Energy attack (Damage: 0.1% life per second)
+
+
+	Captain America Controls
+	--------------------------
+		
+		Movement
+		--------
+		'UP arrow' - Jump
+		'DOWN arrow' - Instant come to ground
+		'LEFT arrow' - Left
+		'RIGHT arrow' - Right
+
+		Attacks (Don't just press it. Hold it)
+		-------
+		'I' - Energy shield attack (Damage: 0.7% life per second)
+		'K' - Shield throw attack  (Damage: 0.5% life per second)
+		'J' - Shield punch         (Damage: 0.09% life per second)
+		'L' - Multiple punches	   (Damage: 0.1% life per second)
+
+Output Column
+-----------------
+
+
+If Captain America's life gets over then, it must display
+
+	"IRONMAN AMERICA WIN"
+	"GAME OVER"
+
+and close the applate.
+
+If Ironman's life gets over then, it must display
+
+	"CAPTAIN AMERICA WIN"
+	"GAME OVER"
+
+and close the applate.
+
+It also display Health of Ironman when his health is decreasing and Captain America's health when his health is decreasing.
+
+Miscellaneous
+----------------
+Check out the logo at taskbar and title bar.
+	
+		
